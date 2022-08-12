@@ -1,3 +1,3 @@
-Functioning Basic Calculator
-Dillon Aldrich
-Created Using HTML, CSS, and Javascript
+# Functioning Basic Calculator
+By Dillon Aldrich
+* Created Using HTML, CSS, and Javascript
